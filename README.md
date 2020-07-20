@@ -6,7 +6,7 @@
 - I am Organizer for [Kotlin Mumbai](https://kotlinmumbai.tech)
 
 ### I little bit about me
-- 🔭 I’m currently working on [QuoteIko](https://github.com/gat786/QuoteIko) and [KotlinReference](https://github.com/gat786/QuoteIko).
+- 🔭 I’m currently working on [QuoteIko](https://github.com/gat786/QuoteIko) and [KotlinReference](https://github.com/gat786/KotlinReference).
 - 🎓 I'm currently studying Masters of Science in Computer Science here at [R.D. National College](https://rdnational.ac.in), University of Mumbai [India](https://en.wikipedia.org/wiki/India).
 - 📩 You can message me about anything related to [Android Development](https://developers.android.com), [Python](https://python.org), [Kotlin](https://kotlinlang.org) and little bit of [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript).
 
