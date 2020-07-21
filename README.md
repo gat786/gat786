@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😎 Welcome to Gats Github Repo. Here you can find different projects I am working upon.
+- 😎 Welcome to Gats Github Profile Page!. Great to see you here.
 - I like playing Minecraft⚡. thats it. it needed a mention here. 😁
 - I am a Current Batch Microsoft Student Partner 🙌🏼 and soon to be [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-us) 🔥.
 - I organize events for my community🏙 as well as under the badge of [MSInpir](https://mspinpire.com)
@@ -23,6 +23,8 @@ This is my email address - [gat786@outlook.com](mailto:gat786@outlook.com)
 Twitter [here](https://twitter.com/ganeshtiwari786) 🐦
 Instagram [here](https://instagram.com/iwrotestan) 📷
 LinkedIn [here](https://linkedin.com/in/gat786) 🕴🏼
+
+## If you like my work please dont forget to give me a follow!
 
 <!--
 **gat786/gat786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
