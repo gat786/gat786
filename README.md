@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😎 Welcome to Gats Github Profile Page!. Great to see you here.
 - I like playing Minecraft⚡. thats it. it needed a mention here. 😁
-- I am a Current Batch Microsoft Student Partner 🙌🏼 and soon to be [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-us) 🔥.
+- I am a Current Batch [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-us) 🔥.
 - I organize events for my community🏙 as well as under the badge of [MSInpir](https://mspinpire.com)
 
 ### I little bit about me
