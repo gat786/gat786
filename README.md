@@ -19,7 +19,7 @@ This is my email address - [gat786@outlook.com](mailto:gat786@outlook.com)
 
 ### My Socials are highlighted here
 
-Twitter [here](https://twitter.com/ganeshtiwari786) 🐦
+Twitter [here](https://twitter.com/igat786) 🐦
 Instagram [here](https://instagram.com/iwrotestan) 📷
 LinkedIn [here](https://linkedin.com/in/gat786) 🕴🏼
 
