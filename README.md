@@ -12,7 +12,7 @@
 - 🎓 I'm currently studying Masters of Science in Computer Science here at [R.D. National College](https://rdnational.ac.in), University of Mumbai [India](https://en.wikipedia.org/wiki/India).
 - 📩 You can message me about anything related to [Android Development](https://developers.android.com), [Python](https://python.org), [Kotlin](https://kotlinlang.org) and little bit of [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript).
 
-This is my email address - [gat786@outlook.com](mailto:gat786@outlook.com)
+This is my email address - [me@gats.dev](mailto:me@gats.dev)
 
 ### Things that I like building
   - Mobile Applications (Flutter/Native(Preferred Kotlin)) 📱
