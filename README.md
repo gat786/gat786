@@ -3,15 +3,17 @@
 ![](https://komarev.com/ghpvc/?username=gat786)
 
 - 😎 Welcome to Gats Github Profile Page!. Great to see you here.
-- I am currently working as a UI Engineer for [Styava.dev](http://styava.dev/)
+- I am currently working as a Junior DevOps Engineer for [Nethermind](http://nethermind.io/)
+- I also do Frontend Stuff and know React, Redux etc.
+- Got mad CLI skills.
 - I was a Gold [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-us) 🔥.
 
-### I little bit about me
-- 🔭 I’m currently working on [QuoteIko](https://github.com/gat786/QuoteIko) and [KotlinReference](https://github.com/gat786/KotlinReference).
-- 🎓 I'm currently studying Masters of Science in Computer Science here at [R.D. National College](https://rdnational.ac.in), University of Mumbai [India](https://en.wikipedia.org/wiki/India).
-- 📩 You can message me about anything related to [Android Development](https://developers.android.com), [Python](https://python.org), [Kotlin](https://kotlinlang.org) and little bit of [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript).
-
 This is my email address - [me@gats.dev](mailto:me@gats.dev)
+
+🔭 I’m currently working on ...
+- My Fitness, Gained a lot of weight in the Lockdown and was 112Kg at my highest.
+- Learning Terraform, Linux Bash and building overall better software products
+
 
 ### Things that I like building
   - Mobile Applications (Flutter/Native(Preferred Kotlin)) 📱
@@ -32,7 +34,7 @@ LinkedIn [here](https://linkedin.com/in/gat786) 🕴🏼
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
