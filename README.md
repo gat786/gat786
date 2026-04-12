@@ -3,7 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=gat786)
 
 - 😎 Welcome to Gats Github Profile Page!. Great to see you here.
-- I am currently working as a Junior DevOps Engineer for [Nethermind](http://nethermind.io/)
+- I have previously worked as DevOps/Platform Engineer for [Nethermind](http://nethermind.io/)
+- I have deep understanding of Kubernetes and its offerings on Google i.e. GKE Autopilot and Standard Editions.
 - I also do Frontend Stuff and know React, Redux etc.
 - Got mad CLI skills.
 - I was a Gold [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-us) 🔥.
